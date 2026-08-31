@@ -1,0 +1,3 @@
+C is a small language with a lot of power.
+Pointers, structs, and files show up in almost every real program.
+Count these words: C, pointers, structs, files, C, files.
