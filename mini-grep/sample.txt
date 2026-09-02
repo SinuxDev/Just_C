@@ -1,0 +1,8 @@
+int main(void) {
+    printf("hello from C\n");
+    return 0;
+}
+
+void unused(void) {
+    printf("this line talks about files and pointers\n");
+}
